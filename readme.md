@@ -92,7 +92,7 @@ Dr. Toni
 2
 Belum Selesai
 Update task status
-12S3102
+Update task status
 Selesai
 Show assigment
 Add task
@@ -105,7 +105,7 @@ Dr. Natalia
 7
 5
 Belum Selesai
-Show assigment
+Belum Selesai
 Add task
 Problem Decompositon and Problem Identification
 TIS1101
